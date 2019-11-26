@@ -11,4 +11,7 @@
 * Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer -[[arxiv](https://arxiv.org/pdf/1910.10683.pdf)]
 
 
-## ...  
+## Speaker  
+
+* Learning Speaker Representations with Mutual Information - [[arxiv](https://arxiv.org/pdf/1812.00271.pdf)], [[youtube](https://www.youtube.com/watch?v=rzAuJyTkTAU)] 
+
