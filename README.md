@@ -3,6 +3,7 @@
 ## '21 PAPER thread 
 * Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing - [arxiv](https://arxiv.org/pdf/2107.13586v1.pdf)(p.46), #NLP #PLM
   - Figure 1: Typology of prompting methods, 
+<img src="https://d3i71xaburhd42.cloudfront.net/28692beece311a90f5fa1ca2ec9d0c2ce293d069/7-Figure1-1.png">
 * Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems - [arxiv]()
 * Finetuned Language Models Are Zero-Shot Learners - [arxiv](https://arxiv.org/abs/2109.01652v1)
   - 175B GPT-3 zero-shot/few-shot 비교
