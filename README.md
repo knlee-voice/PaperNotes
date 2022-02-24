@@ -1,7 +1,7 @@
 # Research Paper Notes
 
 ## '22 PAPER thread 
-* Training language models to follow instructions with human feedback - [openAI.pdf](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf)
+* Training language models to follow instructions with human feedback - [openAI blog](https://openai.com/blog/instruction-following/), [paper](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf)
   - InstructGPT: minimize performance regressions on public NLP datasets by modifying our RLHF fine-tuning procedure.
   - Labelers significantly prefer InstructGPT outputs over outputs from GPT-3.
   - InstructGPT models show improvements in truthfulness over GPT-3.
