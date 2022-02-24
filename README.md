@@ -2,7 +2,10 @@
 
 ## '22 PAPER thread 
 * Training language models to follow instructions with human feedback - [openAI.pdf](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf)
-  - InstructGPT: fine-tune GPT-3 using supervised learning
+  - InstructGPT: minimize performance regressions on public NLP datasets by modifying our RLHF fine-tuning procedure.
+  - Labelers significantly prefer InstructGPT outputs over outputs from GPT-3.
+  - InstructGPT models show improvements in truthfulness over GPT-3.
+  - 3 model sizes (1.3B, 6B, and 175B parameters)
 
 ## '21 PAPER thread 
 * FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS, Google Research - [arXiv](https://arxiv.org/pdf/2109.01652.pdf) 
