@@ -17,7 +17,7 @@
   - 175B GPT-3 zero-shot/few-shot 비교
 * ASR-GLUE: A New Multi-task Benchmark for ASR-Robust Natural Language Understanding - [arxiv](https://arxiv.org/abs/2108.13048v1), #Benchmark
 * AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing - [arxiv](https://arxiv.org/abs/2108.05542), #ASR #Benchmark
-* Datasets: A Community Library for Natural Language Processing - [arxiv](Datasets: A Community Library for Natural Language Processing)
+* Datasets: A Community Library for Natural Language Processing - [arxiv](https://arxiv.org/pdf/2109.02846.pdf)
 * Textless NLP: Generating expressive speech from raw audio - [facebook AI](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio)
 * On the opportunity and risks of foundation models - [arxiv](https://arxiv.org/abs/2108.07258)(p.160)
 * A Survey on Automated Fact-Checking - [arxiv](https://arxiv.org/abs/2108.11896v1v)
