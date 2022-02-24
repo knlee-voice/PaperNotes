@@ -1,11 +1,12 @@
 # Research Paper Notes
 
 ## '22 PAPER thread 
-* Training language models to follow instructions with human feedback 
-  - Finetune on many tasks (“instruction-tuning”)
+* Training language models to follow instructions with human feedback - [openAI.pdf](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf)
+  - InstructGPT: fine-tune GPT-3 using supervised learning
 
 ## '21 PAPER thread 
 * FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS, Google Research - [arXiv](https://arxiv.org/pdf/2109.01652.pdf) 
+  - Finetune on many tasks (“instruction-tuning”)
 * Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing - [arxiv](https://arxiv.org/pdf/2107.13586v1.pdf)(p.46)
   - #NLP #PLM / Fig: Typology of prompting methods
 * Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems - [arxiv]()
