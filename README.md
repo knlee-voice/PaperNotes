@@ -1,6 +1,11 @@
 # Research Paper Notes
 
+## '22 PAPER thread 
+* Training language models to follow instructions with human feedback 
+
 ## '21 PAPER thread 
+* FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS, Google Research - [arXiv](https://arxiv.org/pdf/2109.01652.pdf) 
+
 * Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing - [arxiv](https://arxiv.org/pdf/2107.13586v1.pdf)(p.46)
   - #NLP #PLM / Fig: Typology of prompting methods
 * Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems - [arxiv]()
