@@ -21,6 +21,7 @@
 * LoRA: Low-Rank Adaptation of Large Language Models - [arXiv/2106.09685](https://arxiv.org/abs/2106.09685v2). [Code](https://github.com/microsoft/LoRA)
 ------
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks -  [arxiv/2005.11401](https://arxiv.org/abs/2005.11401)
+* Longformer: The Long-Document Transformer - [arXiv/2004.05150](https://arxiv.org/abs/2004.05150)
   
 ## PAPER thread - Foundation Models, Dataset 
 * On the opportunity and risks of foundation models - [arxiv/2108.07258](https://arxiv.org/abs/2108.07258)(p.160)
