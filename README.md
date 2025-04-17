@@ -29,6 +29,7 @@
 
 
 ## PAPER threads - Agent 
+* Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems - [arXiv/2504.01990](https://arxiv.org/pdf/2504.01990v1), [github](https://github.com/FoundationAgents/awesome-foundation-agents). [Fig.1.2](https://github.com/FoundationAgents/awesome-foundation-agents/raw/main/assets/1-agent_framework.png)
 * AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System - [arXiv/2402.15538](https://arxiv.org/abs/2402.15538), [Fig.Illustration](https://d3i71xaburhd42.cloudfront.net/fc1dec23e44b7316cae4cda93ab0fdd1c56b2f28/9-Figure2-1.png)
   
 ## PAPER threads - Foundation Models, Dataset 
