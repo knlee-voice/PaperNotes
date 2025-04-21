@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83a92218-1ce6-4416-8547-3a22bdc661a5)# Research Paper Notes 
+# Research Paper Notes 
 ## PAPER threads - (L)LM , GPT , NLP
 * LLM Post-Training: A Deep Dive into Reasoning Large Language Models - [arXiv/2502.21321v2](https://arxiv.org/pdf/2502.21321v2), [github](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training), [Fig.1](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training/blob/main/Images/teasor.jpg)
 * RewardBench: Evaluating Reward Models for Language Modeling - [arXiv/2403.13787](https://arxiv.org/pdf/2403.13787v1.pdf), [Leaderboard](https://huggingface.co/spaces/allenai/reward-bench), [Dataset](https://huggingface.co/datasets/allenai/reward-bench)
