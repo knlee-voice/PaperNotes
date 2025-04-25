@@ -1,5 +1,6 @@
 # Research Paper Notes 
 ## PAPER threads - (L)LM , GPT , NLP
+* WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents - [arXiv/2504.15785](https://arxiv.org/pdf/2504.15785v1), [github](https://github.com/elated-sawyer/WALL-E)
 * LLM Post-Training: A Deep Dive into Reasoning Large Language Models - [arXiv/2502.21321v2](https://arxiv.org/pdf/2502.21321v2), [github](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training), [Fig.1](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training/blob/main/Images/teasor.jpg)
 * RewardBench: Evaluating Reward Models for Language Modeling - [arXiv/2403.13787](https://arxiv.org/pdf/2403.13787v1.pdf), [Leaderboard](https://huggingface.co/spaces/allenai/reward-bench), [Dataset](https://huggingface.co/datasets/allenai/reward-bench)
 * Fine Tuning vs. Retrieval Augmented Generation for Less Popular Knowledge - [arXiv/2403.01432](https://arxiv.org/abs/2403.01432)
